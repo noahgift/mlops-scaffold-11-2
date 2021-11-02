@@ -9,3 +9,8 @@ This is the beginning of doing MLOPs
 ## Setup 
 
 * Create scaffold
+
+
+## References
+
+[![Watch MLOPs Chronicles 11-2021 on Pragmatic AI Labs YouTube](https://img.youtube.com/vi/bzVNoT65EWk/0.jpg)]
