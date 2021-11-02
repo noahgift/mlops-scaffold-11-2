@@ -14,3 +14,5 @@ This is the beginning of doing MLOPs
 ## References
 
 [![Watch MLOPs Chronicles 11-2021 on Pragmatic AI Labs YouTube](https://img.youtube.com/vi/bzVNoT65EWk/0.jpg)](http://www.youtube.com/watch?v=bzVNoT65EWk "MLOPs Chronicles 11-2021")
+* [O'Reilly Book Python for DevOps](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation-ebook/dp/B082P97LDW)
+* [Practical MLOps](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning-dp-1098103017)
