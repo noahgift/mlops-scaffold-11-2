@@ -16,4 +16,4 @@ lint:
 deploy:
 	echo "deploy goes here"
 
-all: install lint test
+all: install lint test format
